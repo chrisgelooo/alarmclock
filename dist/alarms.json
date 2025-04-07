@@ -1,0 +1,13 @@
+[
+    {
+        "hour": 3,
+        "minute": 43,
+        "label": "test",
+        "sound_file": "builtin:classic.wav",
+        "enabled": true,
+        "recurrence_type": "Specific Date",
+        "recurrence_days": [],
+        "specific_date": "2025-04-08",
+        "id": "4bff497c-45f3-45da-810e-109af6f73999"
+    }
+]
